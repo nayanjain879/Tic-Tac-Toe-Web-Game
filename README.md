@@ -6,9 +6,6 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 
 ## Run on Terminal
 
-```sh
-google-chrome index.html
-```
 
 
 
@@ -20,9 +17,4 @@ google-chrome index.html
 
 
 
-## Author
 
-👤 **Aras Güngöre**
-
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
